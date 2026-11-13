@@ -1,0 +1,8 @@
+{
+  "name": "F.O.E(FRIENDS OF ENVIROMENT)",
+  "description": "A GOOD HABIT TRACKER LIKE A GAME.BEAT YOUR FRIENDS ON REGIONAL SCORE BOARD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
